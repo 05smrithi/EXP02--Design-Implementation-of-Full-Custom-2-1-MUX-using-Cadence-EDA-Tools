@@ -31,6 +31,8 @@ To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,
    *Analog simulation by spectre
 
 
+
+
 i)Procedure for Creating New Library.
 •File –New – Library
 •Name : Give name for ur library Ex: VLSILAB_EXP_1
@@ -60,6 +62,8 @@ ii)Create Schematic Cell view.
 
 
  
+
+
 iii)Creating the Symbol for schematic Cell view:
 •In the schematic window, execute 
 
@@ -93,6 +97,8 @@ iv)Creating the new test cell view:
  ![WhatsApp Image 2024-10-05 at 06 44 09_99443789](https://github.com/user-attachments/assets/6e7318f8-7f0f-4656-b8e9-bafa00d2ace2)
 
 
+
+
 Analog simulation by SPECTRE:
 •In test cell view window
 •Launch – ADE L(Analog Design Environment)
@@ -106,6 +112,15 @@ Analog simulation by SPECTRE:
 
  
  ![WhatsApp Image 2024-10-05 at 06 44 08_3488cbfa](https://github.com/user-attachments/assets/9b21ba7d-7300-4e61-8f63-c6e87720bc99)
+
+
+
+
+
+
+
+
+
 
 
 **For Transient Analysis Settings and Output:**
